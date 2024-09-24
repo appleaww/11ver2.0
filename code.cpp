@@ -18,6 +18,7 @@ int main() {
     std::cout <<"Введите число m\n";
     std::cin>> m;
     std::cout <<"Сумма чисел m и a равна " << m+a << "\n";
- 
+    std::cout <<"Сумма чисел m и b равна " << m+b << "\n";
+
     return 0;
 }
