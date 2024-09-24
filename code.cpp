@@ -13,5 +13,6 @@ int main() {
     std::cin>> o;
     std::cout <<"Введите число p\n";
     std::cin>> p;
+    std::cout<< "Произведение чисел o и p равно " << o *p<< "\n";
     return 0;
 }
