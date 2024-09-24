@@ -14,5 +14,9 @@ int main() {
     std::cin>> m;
     std::cout <<"Сумма чисел a и b равна " << a+b << "\n";
 
+
+
+    std::cout <<"Произведение чисел a и b равно " << a*b << "\n";
+
     return 0;
 }
